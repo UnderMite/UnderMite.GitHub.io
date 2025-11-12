@@ -30,4 +30,5 @@ Aturan InI Berlaku Di WhatsApp Dan Di Servernya langsung
 14. No Virus
 15. No ISIS Atau Organisasi teroris lainnya
 16. No rasisme
+
 17.jangan generate gambar di AI
