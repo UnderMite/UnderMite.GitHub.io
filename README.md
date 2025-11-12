@@ -1,4 +1,4 @@
-Test## Deskripsi
+## Deskripsi
 UnderMite SMP Adalah sebuah Server Minecraft Pocket Edition 0.15.10 yang berasal dari Indonesia. server ini dibuat oleh Julian087 dan beberapa Player lain nya yang tentu berasal dari Indonesia. 
 
 ## Main Information
@@ -30,5 +30,4 @@ Aturan InI Berlaku Di WhatsApp Dan Di Servernya langsung
 14. No Virus
 15. No ISIS Atau Organisasi teroris lainnya
 16. No rasisme
-
 17.jangan generate gambar di AI
